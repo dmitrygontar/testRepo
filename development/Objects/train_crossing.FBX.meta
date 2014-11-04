@@ -1,0 +1,419 @@
+fileFormatVersion: 2
+guid: 092cb3d5663f90145917fec9f2756b90
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Box001
+    100002: Box003
+    100004: Box004
+    100006: Box006
+    100008: Box007
+    100010: Box008
+    100012: Box009
+    100014: Box010
+    100016: Box011
+    100018: Box012
+    100020: Box013
+    100022: Box014
+    100024: Box015
+    100026: Box016
+    100028: Box017
+    100030: Box018
+    100032: Box019
+    100034: Box020
+    100036: Box021
+    100038: Box022
+    100040: Box023
+    100042: Box024
+    100044: Box025
+    100046: Box026
+    100048: Box027
+    100050: Box028
+    100052: Box029
+    100054: Box030
+    100056: Cylinder001
+    100058: Cylinder025
+    100060: Cylinder027
+    100062: Cylinder031
+    100064: Cylinder032
+    100066: Cylinder033
+    100068: Cylinder034
+    100070: Cylinder035
+    100072: Cylinder036
+    100074: Cylinder037
+    100076: Cylinder038
+    100078: Cylinder039
+    100080: Object001
+    100082: Object002
+    100084: Object003
+    100086: Object004
+    100088: Object005
+    100090: Shape002
+    100092: Shape003
+    100094: train
+    100096: //RootNode
+    400000: Box001
+    400002: Box003
+    400004: Box004
+    400006: Box006
+    400008: Box007
+    400010: Box008
+    400012: Box009
+    400014: Box010
+    400016: Box011
+    400018: Box012
+    400020: Box013
+    400022: Box014
+    400024: Box015
+    400026: Box016
+    400028: Box017
+    400030: Box018
+    400032: Box019
+    400034: Box020
+    400036: Box021
+    400038: Box022
+    400040: Box023
+    400042: Box024
+    400044: Box025
+    400046: Box026
+    400048: Box027
+    400050: Box028
+    400052: Box029
+    400054: Box030
+    400056: Cylinder001
+    400058: Cylinder025
+    400060: Cylinder027
+    400062: Cylinder031
+    400064: Cylinder032
+    400066: Cylinder033
+    400068: Cylinder034
+    400070: Cylinder035
+    400072: Cylinder036
+    400074: Cylinder037
+    400076: Cylinder038
+    400078: Cylinder039
+    400080: Object001
+    400082: Object002
+    400084: Object003
+    400086: Object004
+    400088: Object005
+    400090: Shape002
+    400092: Shape003
+    400094: train
+    400096: //RootNode
+    2300000: Box001
+    2300002: Box003
+    2300004: Box004
+    2300006: Box006
+    2300008: Box007
+    2300010: Box008
+    2300012: Box009
+    2300014: Box010
+    2300016: Box011
+    2300018: Box012
+    2300020: Box013
+    2300022: Box014
+    2300024: Box015
+    2300026: Box016
+    2300028: Box017
+    2300030: Box018
+    2300032: Box019
+    2300034: Box020
+    2300036: Box021
+    2300038: Box022
+    2300040: Box023
+    2300042: Box024
+    2300044: Box025
+    2300046: Box026
+    2300048: Box027
+    2300050: Box028
+    2300052: Box029
+    2300054: Box030
+    2300056: Cylinder001
+    2300058: Cylinder025
+    2300060: Cylinder027
+    2300062: Cylinder031
+    2300064: Cylinder032
+    2300066: Cylinder033
+    2300068: Cylinder034
+    2300070: Cylinder035
+    2300072: Cylinder036
+    2300074: Cylinder037
+    2300076: Cylinder038
+    2300078: Cylinder039
+    2300080: Object001
+    2300082: Object002
+    2300084: Object003
+    2300086: Object004
+    2300088: Object005
+    3300000: Box001
+    3300002: Box003
+    3300004: Box004
+    3300006: Box006
+    3300008: Box007
+    3300010: Box008
+    3300012: Box009
+    3300014: Box010
+    3300016: Box011
+    3300018: Box012
+    3300020: Box013
+    3300022: Box014
+    3300024: Box015
+    3300026: Box016
+    3300028: Box017
+    3300030: Box018
+    3300032: Box019
+    3300034: Box020
+    3300036: Box021
+    3300038: Box022
+    3300040: Box023
+    3300042: Box024
+    3300044: Box025
+    3300046: Box026
+    3300048: Box027
+    3300050: Box028
+    3300052: Box029
+    3300054: Box030
+    3300056: Cylinder001
+    3300058: Cylinder025
+    3300060: Cylinder027
+    3300062: Cylinder031
+    3300064: Cylinder032
+    3300066: Cylinder033
+    3300068: Cylinder034
+    3300070: Cylinder035
+    3300072: Cylinder036
+    3300074: Cylinder037
+    3300076: Cylinder038
+    3300078: Cylinder039
+    3300080: Object001
+    3300082: Object002
+    3300084: Object003
+    3300086: Object004
+    3300088: Object005
+    4300000: Box006
+    4300002: Box007
+    4300004: Box008
+    4300006: Box009
+    4300008: Box010
+    4300010: Box011
+    4300012: Box012
+    4300014: Box013
+    4300016: Box014
+    4300018: Box015
+    4300020: Box016
+    4300022: Box017
+    4300024: Box018
+    4300026: Box019
+    4300028: Box020
+    4300030: Box021
+    4300032: Box022
+    4300034: Box023
+    4300036: Box024
+    4300038: Box025
+    4300040: Box026
+    4300042: Box027
+    4300044: Cylinder027
+    4300046: Object001
+    4300048: Object002
+    4300050: Object003
+    4300052: Object004
+    4300054: Object005
+    4300056: Box028
+    4300058: Cylinder001
+    4300060: Box003
+    4300062: Cylinder025
+    4300064: Cylinder031
+    4300066: Box030
+    4300068: Box029
+    4300070: Box004
+    4300072: Box001
+    4300074: Cylinder032
+    4300076: Cylinder033
+    4300078: Cylinder034
+    4300080: Cylinder035
+    4300082: Cylinder036
+    4300084: Cylinder037
+    4300086: Cylinder038
+    4300088: Cylinder039
+    7400000: rotating_of_wheels
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: rotating_of_wheels
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Box006
+        weight: 1
+      - path: Box007
+        weight: 1
+      - path: Box008
+        weight: 1
+      - path: Box009
+        weight: 1
+      - path: Box010
+        weight: 1
+      - path: Box011
+        weight: 1
+      - path: Box012
+        weight: 1
+      - path: Box013
+        weight: 1
+      - path: Box014
+        weight: 1
+      - path: Box015
+        weight: 1
+      - path: Box016
+        weight: 1
+      - path: Box017
+        weight: 1
+      - path: Box018
+        weight: 1
+      - path: Box019
+        weight: 1
+      - path: Box020
+        weight: 1
+      - path: Box021
+        weight: 1
+      - path: Box022
+        weight: 1
+      - path: Box023
+        weight: 1
+      - path: Box024
+        weight: 1
+      - path: Box025
+        weight: 1
+      - path: Box026
+        weight: 1
+      - path: Box027
+        weight: 1
+      - path: Box028
+        weight: 1
+      - path: Cylinder027
+        weight: 1
+      - path: Object001
+        weight: 1
+      - path: Object002
+        weight: 1
+      - path: Object003
+        weight: 1
+      - path: Object004
+        weight: 1
+      - path: Object005
+        weight: 1
+      - path: train
+        weight: 1
+      - path: train/Box001
+        weight: 1
+      - path: train/Box003
+        weight: 1
+      - path: train/Box004
+        weight: 1
+      - path: train/Box029
+        weight: 1
+      - path: train/Box030
+        weight: 1
+      - path: train/Cylinder001
+        weight: 1
+      - path: train/Cylinder025
+        weight: 1
+      - path: train/Cylinder031
+        weight: 1
+      - path: train/Cylinder032
+        weight: 1
+      - path: train/Cylinder033
+        weight: 1
+      - path: train/Cylinder034
+        weight: 1
+      - path: train/Cylinder035
+        weight: 1
+      - path: train/Cylinder036
+        weight: 1
+      - path: train/Cylinder037
+        weight: 1
+      - path: train/Cylinder038
+        weight: 1
+      - path: train/Cylinder039
+        weight: 1
+      - path: train/Shape002
+        weight: 1
+      - path: train/Shape003
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .100000001
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
